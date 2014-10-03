@@ -1,2 +1,7 @@
 echo "Trabajo en equipo con git" > docs/prct02.txt
 
+La compilación es el proceso de traducir un programa en codigo fuente a programa en codigo objeto
+(lenguaje binario), el programa encargado se llama compilador. Lenguajes compilados son por ejemplo C++ o Java
+En cambio en los lenguajes interpretados se necesita un programa que traduzca en directo el codigo fuente escrito a instrucciones de la plataforma en la
+que se ejecuta. Ejemplo: Python, Visual Basic
+

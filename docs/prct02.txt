@@ -1,0 +1,2 @@
+echo "Trabajo en equipo con git" > docs/prct02.txt
+

@@ -5,3 +5,13 @@ La compilación es el proceso de traducir un programa en codigo fuente a program
 En cambio en los lenguajes interpretados se necesita un programa que traduzca en directo el codigo fuente escrito a instrucciones de la plataforma en la
 que se ejecuta. Ejemplo: Python, Visual Basic
 
+¿Diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+
+La diferencia es que el .sh tiene como interprete bash /bin/sh en cambio el .rb 
+necesita anteponerse el interprete para poder interpretar. En este caso Ruby.
+
+¿Significado de la primera linea del fichero helloWorld.sh?
+
+La primera linea es #!/bin/sh que es donde se invoca al interprete que se tiene
+que usar para poder interpretar el fichero fuente.
+
